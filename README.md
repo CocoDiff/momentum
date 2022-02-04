@@ -5,7 +5,7 @@
 ##### 최종 수정일 2021.10.13.수요일💫
 
 
-##### 위치, 날씨, 투두리스트, 명언
+##### 위치, 날씨, 투두리스트, 명언, 로컬DB
 
 사용 된 언어
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
