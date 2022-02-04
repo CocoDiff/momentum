@@ -2,6 +2,8 @@
 #### with nomad-coder
 
 
+##### 최종 수정일 2021.10.13.수요일💫
+
 사용 된 언어
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
 <img src="http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
