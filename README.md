@@ -13,8 +13,4 @@
 <img src="http://img.shields.io/badge/VanilaJS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
 
 
-❗ 사용자 개인 위치에 대한 정보는 전달되지 않습니다. 안심하고 사용하세요!
-
-##### 크롬 환경에 최적화 되어 있습니다.
-
 https://oopopop.github.io/momentum/
